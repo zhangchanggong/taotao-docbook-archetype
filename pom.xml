@@ -4,7 +4,7 @@
 
   <groupId>store.taotao.docbook.archetypes</groupId>
   <artifactId>taotao-docbook-archetype</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0-RELEASE</version>
   <packaging>maven-archetype</packaging>
 
   <description>taotao-docbok 文档工程原型</description>
