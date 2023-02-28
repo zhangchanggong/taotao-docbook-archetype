@@ -35,7 +35,7 @@
 				<groupId>store.taotao.docbook</groupId>
 				<artifactId>taotao-docbook-maven-plugin</artifactId>
 				<configuration>
-					<docbookFile>${project.artifactId}.xml</docbookFile>
+					<docbookFile>${artifactId}.xml</docbookFile>
 					<xsltDir>${basedir}/src/main/xslt</xsltDir>
 					<resourcePaths>
 						<resourcePath>classpath://resource_root</resourcePath>
