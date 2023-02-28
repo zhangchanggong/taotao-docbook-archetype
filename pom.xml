@@ -12,6 +12,7 @@
 
   <url>https://gitee.com/qq353586539/taotao-docbook-archetype</url>
   <properties>
+    <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <archetype.version>3.2.1</archetype.version>
     <plugin-gpg.version>3.0.1</plugin-gpg.version>
     <plugin-nexus.version>1.6.13</plugin-nexus.version>
