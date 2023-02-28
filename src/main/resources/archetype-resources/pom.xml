@@ -33,7 +33,7 @@
 		<plugins>
 			<plugin>
 				<groupId>store.taotao.docbook</groupId>
-				<artifactId>${rootArtifactId}-maven-plugin</artifactId>
+				<artifactId>taotao-docbook-maven-plugin</artifactId>
 				<configuration>
 					<docbookFile>demo-docbook.xml</docbookFile>
 					<xsltDir>${basedir}/src/main/xslt</xsltDir>
