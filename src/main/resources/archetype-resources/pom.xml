@@ -20,8 +20,8 @@
 			<plugins>
 				<plugin>
 					<groupId>store.taotao.docbook</groupId>
-					<artifactId>${rootArtifactId}-maven-plugin</artifactId>
-					<version>${version}</version>
+					<artifactId>taotao-docbook-maven-plugin</artifactId>
+					<version>${taotao-docbook-plugin.version}</version>
 				</plugin>
 				<plugin>
 					<groupId>com.github.jeluard</groupId>
